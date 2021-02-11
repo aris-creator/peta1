@@ -1,0 +1,13 @@
+/*.js
+/*.ts
+package-lock.json
+node_modules
+!index.d.ts
+*.log
+!jest.config.js
+coverage/
+.cache
+.idea
+dist/
+dist
+.DS_Store
